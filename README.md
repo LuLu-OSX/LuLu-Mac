@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/236585/m/lulu-screenshot.png?v=1656437871" alt="LuLu screenshot"/>
+  <img src="https://mac-cdn.softpedia.com/screenshots/LuLu_4.png" alt="LuLu screenshot"/>
 </p>
 
 ---
